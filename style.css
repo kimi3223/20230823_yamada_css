@@ -1,0 +1,55 @@
+.inner {
+    max-width: 1500px;
+    width: 100%;
+    height: 100%;
+}
+
+h3 {
+    color: darkblue;
+    padding: 0 0 0 20px;
+    font-size: 20px;
+    font: bold;
+    float: left;
+    margin: 0px;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+li {
+    list-style: none;
+    float: left;
+    padding: 10px 10px;
+    color: darkblue;
+    font: bold;
+}
+
+.img {
+    width: 50vw;
+    height: auto;
+}
+
+.picture {
+    float: right;
+    margin: 50px auto;
+    position: relative;
+    width: 50%;
+    aspect-ratio: 5 / 3;
+}
+
+h1 {
+    font-size: 50px;
+    position: absolute;
+    top: 350px;
+    }
+
+.blue-box {
+    width: 75%;
+    height: 30%;
+    background-color: blue;
+    position: absolute;
+    bottom: 30px;
+    z-index: -1;
+}
