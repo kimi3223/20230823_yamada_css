@@ -35,12 +35,12 @@
     float: right;
     margin: 50px auto;
     position: relative;
-    width: 50vw;
-    height: 50vh;
+    width: 20vw;
+    height: 20vh;
     aspect-ratio: 5 / 3;
 }
 
-.blue-box on {
+h1 {
     font-size: 50px;
     position: absolute;
     top: -50%;
